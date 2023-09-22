@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BuildNote on My New Hugo Site</title>
+    <link>https://example.org/buildnote/</link>
+    <description>Recent content in BuildNote on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://example.org/buildnote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://example.org/buildnote/privacy/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://example.org/buildnote/privacy/</guid>
+      <description>BuildNote Privacy Policy Privacy Policy for BuildNote App
+Last updated: Sept 22, 2023
+Thank you for choosing to use BuildNote! We take your privacy seriously and are committed to protecting your personal data. This Privacy Policy outlines how your data is handled when you use BuildNote.
+Information We Collect Directly from Your Device: BuildNote allows users to store photo and voice pairs as notes. All data inputted into the app is stored directly on your device and is not transmitted to any external servers or third parties.</description>
+    </item>
+    
+  </channel>
+</rss>
